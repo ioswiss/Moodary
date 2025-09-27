@@ -4,171 +4,79 @@
 
 ## Agreement to Terms
 
-These Terms of Service ("Terms") govern your use of Moodary, a mood tracking application ("App") operated by Moodary ("we," "our," or "us").
-
-By downloading, installing, or using our App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our App.
+These Terms of Service ("Terms") govern your use of Moodary ("App"). By downloading or using the App, you agree to these Terms. If you do not agree, please do not use the App.
 
 ## Description of Service
 
-Moodary is a personal mood tracking application that allows users to:
+Moodary is a personal mood tracking application that allows you to:
 - Log daily mood entries
-- Track mood patterns and trends
-- Generate insights about emotional wellbeing
-- Integrate with Apple Health (Premium feature)
-- Export personal data (Premium feature)
+- Track patterns and trends
+- Reflect on your emotional wellbeing
+- Optionally integrate with Apple Health
+- Export your data (Premium feature)
 
-The App is designed for personal use and self-reflection purposes.
+The App is designed for self-reflection and personal wellness only.
 
 ## User Accounts and Data
 
-### No Account Required:
-- You can use Moodary without creating an account
-- All data is stored locally on your device
-- You maintain full control over your personal information
+- No account is required to use Moodary.  
+- All data is stored locally on your device.  
+- You own your data and can delete or export it at any time.  
+- If you enable iCloud backup, storage is managed by Apple.  
 
-### Your Data:
-- You own all data you input into the App
-- You can export, modify, or delete your data at any time
-- We do not claim ownership of your personal mood data
+We do not collect or transmit your personal information to our servers.
 
-### Data Responsibility:
-- You are responsible for backing up your data
-- We are not liable for data loss due to device issues
-- Premium users have access to cloud backup features
+## Premium Features
 
-## Premium Features and Subscriptions
-
-### Premium Subscription:
-- Monthly, yearly, and lifetime subscription options
-- Access to advanced features and insights
+Premium subscriptions may include features such as:
 - Apple Health integration
-- Smart reminders and custom themes
-- Data export and backup features
+- Data export
+- Custom reminders and themes
+- iCloud backup options
 
-### Payment and Billing:
-- Subscriptions are managed through Apple App Store
-- Payment will be charged to your Apple ID account
-- Subscription automatically renews unless cancelled
-- You can manage subscriptions in your Apple ID settings
-
-### Cancellation:
-- You can cancel your subscription at any time
-- Cancellation takes effect at the end of the current billing period
-- No refunds for unused portions of subscription periods
+Subscriptions are managed by Apple through your App Store account. Payments, renewals, and cancellations are handled in your Apple ID settings. No refunds are provided for unused periods.
 
 ## Acceptable Use
 
-You agree to use Moodary only for lawful purposes and in accordance with these Terms. You agree not to:
-
-- Use the App for any illegal or unauthorized purpose
-- Attempt to reverse engineer, hack, or modify the App
-- Share your account or subscription with others
-- Use the App to harm, harass, or intimidate others
-- Upload malicious code or attempt to compromise App security
-- Violate any applicable laws or regulations
-
-### Prohibited Content:
-- Content that is illegal, harmful, or offensive
-- Content that violates others' privacy or rights
-- Spam, advertising, or promotional content
-- Content that could harm minors
+You agree not to:
+- Use the App for unlawful purposes  
+- Reverse engineer or modify the App  
+- Upload harmful code or attempt to compromise security  
 
 ## Intellectual Property
 
-### Our Rights:
-- Moodary and its original content are owned by us
-- The App is protected by copyright and trademark laws
-- You may not copy, modify, or distribute the App without permission
+Moodary and its content are owned by us and protected by applicable copyright and trademark laws. You may not copy or distribute the App without permission. You retain ownership of your personal data.
 
-### Your Rights:
-- You retain ownership of all data you input
-- You grant us a limited license to process your data for App functionality
-- You can export and use your data as you see fit
+## Privacy
 
-### Third-Party Content:
-- The App may include third-party libraries and services
-- Such content is subject to their respective licenses
-- We are not responsible for third-party content or services
+Your use of the App is also governed by our [Privacy Policy](https://github.com/ioswiss/Moodary/blob/main/PRIVACY_POLICY.md).  
+Key principles:
+- Data is stored locally on your device  
+- We do not sell or share your information  
+- Health data access requires your explicit consent  
 
-## Privacy and Data Protection
+## Disclaimers
 
-Your privacy is important to us. Our collection and use of personal information is governed by our Privacy Policy, which is incorporated into these Terms by reference.
-
-### Key Privacy Principles:
-- Your mood data is stored locally on your device
-- We do not sell or share your personal information
-- You have full control over your data
-- Health data integration requires explicit consent
-- You can delete all data at any time
-
-## Disclaimers and Limitations of Liability
-
-### Medical Disclaimer:
-- Moodary is not a medical device or diagnostic tool
-- The App is for informational and self-reflection purposes only
-- Always consult healthcare professionals for medical advice
-- We are not responsible for any health decisions based on App data
-
-### Service Availability:
-- We strive to maintain App availability but cannot guarantee 100% uptime
-- The App is provided "as is" without warranties of any kind
-- We may modify or discontinue features at any time
-
-### Limitation of Liability:
-- Our liability is limited to the amount you paid for the App
-- We are not liable for indirect, incidental, or consequential damages
-- We are not responsible for data loss due to device issues
+- Moodary is not a medical device. It does not provide medical advice, diagnosis, or treatment.  
+- The App is provided “as is,” without warranties of any kind.  
+- We are not responsible for data loss caused by device issues.  
 
 ## Termination
 
-### Your Right to Terminate:
-- You can stop using the App at any time
-- You can delete the App and all associated data
-- Cancelling subscription does not delete your data
-
-### Our Right to Terminate:
-- We may suspend or terminate access for Terms violations
-- We may discontinue the App with reasonable notice
-- We will provide data export options before discontinuation
-
-### Effect of Termination:
-- Your right to use the App ceases immediately
-- You retain ownership of your data
-- Provisions that should survive termination will remain in effect
+You may stop using Moodary at any time by deleting the App. We may suspend or discontinue the App if necessary. Your data always remains under your control.
 
 ## Changes to Terms
 
-We may update these Terms from time to time. We will notify you of material changes by:
-- Posting updated Terms in the App
-- Updating the "Last updated" date
-- Sending push notifications for significant changes
+We may update these Terms from time to time. Updates will be posted in the App and on our website, with the "Last updated" date adjusted accordingly.
 
-Your continued use of the App after changes constitutes acceptance of the updated Terms.
+## Governing Law
 
-## Governing Law and Disputes
+These Terms are governed by the laws of Switzerland. Disputes will be handled in the competent courts of Lucerne, Switzerland.
 
-### Governing Law:
-- These Terms are governed by the laws of [Your Jurisdiction]
-- Any disputes will be resolved in the courts of [Your Jurisdiction]
+## Contact
 
-### Dispute Resolution:
-- We encourage resolving disputes through direct communication
-- Contact us at legal@moodary.app for legal matters
-- We will make good faith efforts to resolve disputes amicably
-
-## Contact Information
-
-If you have any questions about these Terms of Service, please contact us:
+If you have questions about these Terms, please contact us:
 
 **Email:** legal@moodary.app  
 **Support:** support@moodary.app  
-**Website:** https://moodary.app/terms  
-
-**Business Address:**
-[Your Business Address]  
-[City, State, ZIP Code]  
-[Country]  
-
-We will respond to your inquiry within 30 days.
-
-
+**Website:** https://moodary.app/terms
