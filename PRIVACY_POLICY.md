@@ -4,103 +4,40 @@
 
 ## Introduction
 
-Moodary ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mood tracking application.
-
-By using Moodary, you agree to the collection and use of information in accordance with this policy.
+Moodary ("we," "our," or "us") values your privacy. This Privacy Policy explains how your information is handled when you use our mood tracking application.
 
 ## Information We Collect
 
-### Personal Information:
-- Mood entries and ratings
-- Notes and tags you add to entries
-- Usage patterns and preferences
+Moodary does not collect, transmit, or store any personal information on our servers. All data you enter (such as moods, notes, or tags) is stored **locally on your device** and remains under your control.
 
-### Device Information:
-- Device type and operating system
-- App version and usage statistics
-- Crash reports and performance data
-
-### Health Data (Premium Feature):
-- Apple Health integration data (with your explicit consent)
-- Health metrics correlation analysis
+If you choose to enable Apple Health integration, data access is strictly limited to what you allow in iOS Settings. Health data never leaves your device unless you explicitly choose to back it up with iCloud.
 
 ## How We Use Your Information
 
-We use the collected information to:
-- Provide mood tracking and analysis features
-- Generate insights and trends about your mood patterns
-- Improve app functionality and user experience
-- Provide customer support
-- Ensure app security and prevent fraud
-- Comply with legal obligations
+Because your data stays on your device, we do not use it for advertising, analytics, or tracking. The app functions entirely without any external data collection.
 
 ## Data Storage and Security
 
-### Local Storage:
-- Your mood data is stored locally on your device
-- We use iOS Keychain for secure storage of sensitive information
-- Optional biometric protection for app access
-
-### Cloud Backup (Premium):
-- Encrypted backup to iCloud (optional)
-- Data remains under your control
-- You can disable cloud backup at any time
-
-### Security Measures:
-- End-to-end encryption for data transmission
-- Regular security audits and updates
-- No third-party access to your personal data
+- All mood entries are stored locally on your device.  
+- No accounts are required to use Moodary.  
+- You may delete all app data at any time by removing the app from your device.  
+- Optional iCloud backup is controlled by Apple and tied to your device settings.
 
 ## Data Sharing and Disclosure
 
-We do not sell, trade, or rent your personal information to third parties. We may share information only in the following circumstances:
-
-- **With Your Consent:** When you explicitly agree to share data
-- **Legal Requirements:** When required by law or legal process
-- **Service Providers:** With trusted partners who assist in app operation (under strict confidentiality agreements)
-- **Business Transfers:** In case of merger or acquisition (with notice to users)
-
-### Apple Health Integration:
-- Health data is only accessed with your explicit permission
-- Data remains on your device unless you choose to sync
-- You can revoke access at any time in iOS Settings
-
-## Your Rights and Choices
-
-You have the right to:
-- Access your personal data
-- Correct inaccurate information
-- Delete your data (via app settings)
-- Export your data (Premium feature)
-- Opt out of data collection
-- Withdraw consent for health data access
-
-### Data Control:
-- All data remains on your device by default
-- You can delete all data through app settings
-- No account required - use the app anonymously
+We do not share, sell, or transfer any information to third parties.
 
 ## Children's Privacy
 
-Moodary is not intended for children under 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us to have the information removed.
+Moodary is not intended for children under 13. We do not knowingly collect personal information from children.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by:
-- Posting the new Privacy Policy in the app
-- Updating the "Last updated" date
-- Sending you a notification (for significant changes)
-
-Your continued use of the app after changes constitutes acceptance of the updated policy.
+If we make updates to this Privacy Policy, we will post the revised version here and update the "Last updated" date.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or our data practices, please contact us:
+If you have questions about this Privacy Policy, please contact us:
 
 **Email:** privacy@moodary.app  
-**Website:** https://moodary.app/privacy  
-**Support:** support@moodary.app  
-
-We will respond to your inquiry within 30 days.
-
-
+**Website:** https://moodary.app/privacy
